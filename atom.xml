@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ukmango.github.io/Mango.github.io</id>
+    <title>Mango个人博客网站</title>
+    <updated>2022-06-14T13:09:53.071Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ukmango.github.io/Mango.github.io"/>
+    <link rel="self" href="https://ukmango.github.io/Mango.github.io/atom.xml"/>
+    <subtitle>UK工作室 | 程序员Mango</subtitle>
+    <logo>https://ukmango.github.io/Mango.github.io/images/avatar.png</logo>
+    <icon>https://ukmango.github.io/Mango.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Mango个人博客网站</rights>
+    <entry>
+        <title type="html"><![CDATA[认识Python]]></title>
+        <id>https://ukmango.github.io/Mango.github.io/post/python/</id>
+        <link href="https://ukmango.github.io/Mango.github.io/post/python/">
+        </link>
+        <updated>2022-06-14T10:51:40.000Z</updated>
+    </entry>
+</feed>
